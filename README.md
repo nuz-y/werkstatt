@@ -2,14 +2,22 @@
 Software Sammlung die ich austesten möchte:
 
 [] Paperless NG [https://github.com/jonaswinkler/paperless-ng]
-[] Heimdall [https://heimdall.site]
+[x] Heimdall [https://heimdall.site]
 [] Jellyfin - a free media system [https://jellyfin.org]
 [] SnipeIT [https://snipeitapp.com]
 [] Watchyourlan [https://github.com/aceberg/WatchYourLAN] 
-[] Mealie
+[X] Mealie
 [] PHPIPAM [https://phpipam.net]
-[] Wallabag [https://wallabag.org]
+[X] Wallabag [https://wallabag.org]
 [] Memos [https://www.usememos.com/docs/install/self-hosting]
+[x] Joplin
+
+## Watchlist
+https://strapi.io
+https://hub.docker.com/r/willfarrell/autoheal
+https://crazymax.dev/diun/
+https://www.audiobookshelf.org
+
 
 ## Inspiration
 
