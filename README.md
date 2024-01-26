@@ -18,7 +18,7 @@ Software Sammlung die ich austesten möchte:
 - [https://crazymax.dev/diun/]
 - AudioBookshelf [https://www.audiobookshelf.org]
 - AppFlowy [https://www.appflowy.io] (if available for Synology NAS)
-- 
+- logseq [https://demo.logseq.com/]
 
 
 ## Inspiration
