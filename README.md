@@ -13,10 +13,12 @@ Software Sammlung die ich austesten möchte:
 [x] Joplin
 
 ## Watchlist
-https://strapi.io
-https://hub.docker.com/r/willfarrell/autoheal
-https://crazymax.dev/diun/
-https://www.audiobookshelf.org
+- https://strapi.io
+- https://hub.docker.com/r/willfarrell/autoheal
+- [https://crazymax.dev/diun/]
+- AudioBookshelf [https://www.audiobookshelf.org]
+- AppFlowy [https://www.appflowy.io] (if available for Synology NAS)
+- 
 
 
 ## Inspiration
