@@ -20,6 +20,11 @@ Software Sammlung die ich austesten möchte:
 - AppFlowy [https://www.appflowy.io] (if available for Synology NAS)
 - logseq [https://demo.logseq.com/]
 - https://workflowy.com/features/
+- https://turtlapp.com
+- https://github.com/sytone/obsidian-remote
+- https://web.hypothes.is
+- https://github.com/lostdesign/linked
+- https://github.com/toeverything/| Bisher kein selfhosting möglich
 
 
 ## Inspiration
