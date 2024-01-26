@@ -19,6 +19,7 @@ Software Sammlung die ich austesten möchte:
 - AudioBookshelf [https://www.audiobookshelf.org]
 - AppFlowy [https://www.appflowy.io] (if available for Synology NAS)
 - logseq [https://demo.logseq.com/]
+- https://workflowy.com/features/
 
 
 ## Inspiration
